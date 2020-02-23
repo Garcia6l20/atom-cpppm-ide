@@ -4,7 +4,10 @@
   "version": "0.0.0",
   "description": "cpppm integration in atom",
   "keywords": [
-    "cpp", "cpppm", "build-tools", "project-management"
+    "cpp",
+    "cpppm",
+    "build-tools",
+    "project-management"
   ],
   "repository": "https://github.com/Garcia6l20/cpppm",
   "license": "MIT",
@@ -12,7 +15,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "ide-cpp": ">=0.1.0",
     "console-panel": ">=0.3.1"
   },
   "consumedServices": {

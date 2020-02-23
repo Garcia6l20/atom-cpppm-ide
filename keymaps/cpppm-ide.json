@@ -1,8 +1,9 @@
 {
   "atom-workspace": {
-    "ctrl-1": "cpppm-ide:install-requirements",
-    "ctrl-2": "cpppm-ide:generate",
-    "ctrl-3": "cpppm-ide:build",
-    "ctrl-4": "cpppm-ide:install"
+    "ctrl-²": "cpppm-ide:toggle-panel",
+    "ctrl-&": "cpppm-ide:install-requirements",
+    "ctrl-é": "cpppm-ide:generate",
+    "ctrl-\"": "cpppm-ide:build",
+    "ctrl-'": "cpppm-ide:install"
   }
 }
