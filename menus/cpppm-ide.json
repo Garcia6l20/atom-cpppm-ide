@@ -1,0 +1,36 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "cpppm-ide",
+          "submenu": [
+            {
+              "label": "Install dependencies",
+              "command": "cpppm-ide:install-dependencies"
+            },
+            {
+              "label": "Generate",
+              "command": "cpppm-ide:generate"
+            },
+            {
+              "label": "Build",
+              "command": "cpppm-ide:build"
+            },
+            {
+              "label": "Install",
+              "command": "cpppm-ide:install"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
